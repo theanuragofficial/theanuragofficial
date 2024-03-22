@@ -1,15 +1,14 @@
-👋 Hi, I’m Anurag
-🌱 I’m currently learning Full Stack Web Development
-📫 Connect with me on Linkedin: ANURAG.
+
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theanuragofficial&label=Profile%20views&color=0e75b6&style=flat" alt="theanuragofficial" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theanuragofficial" alt="theanuragofficial" /></a> </p>
-
+👋 Hi, I’m Anurag
+🌱 I’m currently learning Full Stack Web Development
+📫 Connect with me on Linkedin: ANURAG.
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/theanuragofficial/](https://www.linkedin.com/in/theanuragofficial/)
-
 - ⚡ Fun fact **I am Funny( ͡❛ 👅 ͡❛)**
 
 <h3 align="left">Connect with me:</h3>
