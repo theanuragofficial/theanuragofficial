@@ -1,4 +1,4 @@
-![logo](https://github.com/theanuragofficial/theanuragofficial/blob/main/images.jpeg)
+![logo](https://github.com/theanuragofficial/theanuragofficial/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
