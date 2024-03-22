@@ -1,3 +1,6 @@
+👋 Hi, I’m Anurag
+🌱 I’m currently learning Full Stack Web Development
+📫 Connect with me on Linkedin: ANURAG.
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
