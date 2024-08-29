@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm ANURAG.</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theanuragofficial&label=Profile%20views&color=0e75b6&style=flat" alt="theanuragofficial" /> </p>
+<p align="left"> <img src="Purple Abstract Graphic Design LinkedIn Article Cover Image.mp4" alt="theanuragofficial" /> </p>
 
 
 -👋 Hi, I’m ANURAG.
